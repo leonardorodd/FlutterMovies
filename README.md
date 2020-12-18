@@ -1,7 +1,6 @@
-# fluttermovie
+# Fluttermovies
 
-A new Flutter application.
-
+Aplicação em Flutter de lista de desejos para filmes
 ## Getting Started
 
 This project is a starting point for a Flutter application.
