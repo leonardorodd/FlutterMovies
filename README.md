@@ -2,15 +2,7 @@
 
 Aplicação em Flutter de lista de desejos para filmes
 ## Screenshots
-<img src="https://github.com/leonardorodd/FlutterMovies/blob/master/screenshots/Screenshot_20201218-043736_fluttermovie.png" width="205"> 
-<img src="https://github.com/leonardorodd/FlutterMovies/blob/master/screenshots/Screenshot_20201218-043748_fluttermovie.png" width="205"> 
-<img src="https://github.com/leonardorodd/FlutterMovies/blob/master/screenshots/Screenshot_20201218-043736_fluttermovie.png" width="205"> 
-<img src="https://github.com/leonardorodd/FlutterMovies/blob/master/screenshots/Screenshot_20201218-043736_fluttermovie.png" width="205"> 
-<img src="https://github.com/leonardorodd/FlutterMovies/blob/master/screenshots/Screenshot_20201218-043736_fluttermovie.png" width="205"> 
-<img src="https://github.com/leonardorodd/FlutterMovies/blob/master/screenshots/Screenshot_20201218-043736_fluttermovie.png" width="205"> 
-
-
-
+<img src="https://github.com/leonardorodd/FlutterMovies/blob/master/screenshots/Screenshot_20201218-043736_fluttermovie.png" width="205"> <img src="https://github.com/leonardorodd/FlutterMovies/blob/master/screenshots/Screenshot_20201218-043748_fluttermovie.png" width="205"> 
 
 
 
